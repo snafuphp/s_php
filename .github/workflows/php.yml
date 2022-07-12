@@ -37,7 +37,7 @@ jobs:
 
     # - name: Run test suite
     #   run: composer run-script test
-    <?php
+
 while(true){
 start:
 $wait = 0;
